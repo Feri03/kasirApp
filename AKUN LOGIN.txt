@@ -1,0 +1,8 @@
+Username : feri
+password : feri.com
+
+link online : feriirawan.cf
+
+. Data master biaya kendaraan.
+. Cetak nota transaksi.
+. Cetak laporan pendapatan harian dan bulanan.

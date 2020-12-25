@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/steam.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    padding: 50px;
+    background-color:white;
+}
+button{
+    width: 48%;
+}
+@media screen and (max-width:680px){
+    .container{
+        width: 80%;
+        float: none;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
